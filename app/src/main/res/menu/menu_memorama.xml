@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MemorandumActivity">
+    <item android:id="@+id/juegonuevo" android:title="@string/juegonuevo" android:orderInCategory="1" app:showAsAction="never" />
+    </menu>
